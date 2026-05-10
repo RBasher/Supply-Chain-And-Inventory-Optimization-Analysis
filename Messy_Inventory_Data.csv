@@ -1,0 +1,51 @@
+Date,Region,Category,Supplier,Warehouse,Units Sold,Inventory Level,Transportation Cost,Order Accuracy,Lead Time,Backorder,COGS,Warehouse Capacity
+07/13/2023,East,accessories,Supplier C,WH-01,364,1486,$3793.84,True,17,True,10691.52,4306
+N/A,West,Furniture  ,Supplier A,WH-02,555,4851,$4875.85,False,7,False,11276.92,8746
+2023.04.03,West,accessories,Supplier A,WH-02,608,378,$4185.1,Yes,2,True,13087.94,9642
+2023.04.16,West,furniture,Supplier C,WH-03,497,2650,$3363.76,0,28,False,2238.13,5574
+2023.11.26,South,ELECTRONICS,Supplier A,WH-01,543,3774,$1676.95,0,25,False,12237.03,6577
+N/A,South,ELECTRONICS,Supplier C,WH-01,324 units,1522,-3314.06,Yes,3,True,15262.43,8968
+08/17/2023,East,ELECTRONICS,Supplier A,WH-02,166,4225,$4924.47,False,8,False,2837.22,7923
+23-07-2023,East,CLOTHING,Supplier D,WH-02,628,2007,$3657.43,Yes,28,True,2622.02,7261
+N/A,South,accessories,Supplier B,WH-02,515,2562,$3305.89,False,17,True,16490.65,6957
+N/A,North,FURNITURE,Supplier D,WH-03,26,1223,$2044.1,False,17,True,6608.04,4878
+24-11-2023,South,CLOTHING,Supplier A,WH-02,809 units,3293,$4059.05,No,14,True,11274.96,4546
+N/A,East,electronics,Supplier A,WH-03,455,1302,$4814.24,No,13,False,8955.96,6064
+03/25/2023,South,CLOTHING,Supplier A,WH-01,908,1952,$3666.98,Yes,22,True,13246.64,6578
+2023.05.13,North,Clothing  ,Supplier A,WH-03,279,324,$3884.75,0,2,False,10639.72,9279
+2023.09.22,East,clothing,Supplier A,WH-03,923,1302,$3265.38,1,30,False,9360.8,8101
+N/A,,ACCESSORIES,Supplier B,WH-01,892 units,4521,$3947.29,True,12,False,7199.35,4277
+2023.10.13,East,CLOTHING,Supplier C,WH-02,653,4635,$2271.82,No,14,False,6538.08,9893
+10/07/2023,East,ACCESSORIES,Supplier B,WH-01,884 units,2375,-2974.05,0,11,False,4193.51,5744
+06/06/2023,North,FURNITURE,Supplier C,WH-01,952,4249,$4916.51,Yes,13,True,17687.44,5519
+2023.06.21,North,ELECTRONICS,Supplier B,WH-02,687,1852,$3629.15,Yes,25,False,9385.86,8401
+N/A,West,CLOTHING,Supplier A,WH-01,69 units,2537,$4316.42,True,17,True,1161.13,7059
+17-09-2023,South,ACCESSORIES,Supplier D,WH-02,102,1352,$3421.78,False,25,False,6588.83,4613
+2023.03.21,West,electronics,Supplier D,WH-02,141,2975,$3019.82,No,9,False,15061.13,9526
+2023.06.26,North,Accessories  ,Supplier B,WH-01,292,3597,$1404.69,No,15,False,7359.64,8839
+08/21/2023,West,FOOD & BEVERAGE,Supplier D,WH-02,121,1978,$3585.7,1,5,False,7759.89,5313
+N/A,,ACCESSORIES,Supplier A,WH-02,249,1174,$1601.79,True,14,False,14257.72,7475
+2023.09.26,North,CLOTHING,Supplier B,WH-03,860,4351,$1645.57,1,1,False,16898.73,9120
+2023.01.18,East,Furniture  ,Supplier B,WH-01,152,4587,$2337.15,No,15,True,16374.06,4177
+N/A,South,electronics,Supplier D,WH-01,403,1278,$1302.72,0,15,True,17612.92,9733
+N/A,South,accessories,Supplier C,WH-02,119 units,170,$2740.83,True,25,False,8286.09,6043
+N/A,East,Clothing  ,Supplier A,WH-01,737,1046,$4712.66,1,27,False,18082.27,9906
+03-06-2023,North,furniture,Supplier B,WH-03,135,4990,$516.96,Yes,30,True,13868.99,9117
+04/21/2023,South,FURNITURE,Supplier A,WH-03,766,2894,$1386.99,False,13,True,5823.0,7680
+2023.05.12,East,furniture,Supplier A,WH-03,446,258,$3755.26,No,25,True,10388.07,9456
+17-09-2023,,clothing,Supplier D,WH-01,994,4634,$1615.57,True,16,True,19249.95,4536
+19-04-2023,East,CLOTHING,Supplier A,WH-02,356,4301,$1800.41,1,17,True,15046.76,8461
+16-02-2023,South,CLOTHING,Supplier B,WH-01,872,1346,$2166.02,0,18,True,17583.53,9411
+2023.09.27,North,furniture,Supplier C,WH-03,213 units,2301,$4276.9,0,13,True,11484.06,6650
+03/28/2023,South,CLOTHING,Supplier B,WH-01,953,3222,$3722.93,0,2,False,8382.51,5389
+N/A,East,electronics,Supplier B,WH-02,422 units,906,$3976.76,No,8,True,5367.35,7120
+N/A,North,Clothing  ,Supplier D,WH-02,105,537,$3045.6,No,29,False,5760.99,5818
+02/21/2023,North,FOOD & BEVERAGE,Supplier C,WH-03,682,2317,$1111.67,No,10,True,3517.05,6640
+01/28/2023,South,CLOTHING,Supplier C,WH-03,316,1973,-3484.58,1,4,False,16235.69,7969
+N/A,East,food & beverage,Supplier D,WH-01,730,4858,$3140.17,False,22,False,2786.22,6589
+N/A,East,CLOTHING,Supplier B,WH-03,898,195,$3844.56,0,17,False,2772.88,4774
+2023.11.19,West,food & beverage,Supplier A,WH-01,301,4941,$4588.47,0,26,True,14406.2,9620
+02-08-2023,East,Clothing  ,Supplier B,WH-02,872 units,2657,$2094.62,True,7,False,18874.77,9721
+2023.01.24,South,electronics,Supplier D,WH-01,822,3245,$873.48,Yes,22,False,13578.51,4798
+26-11-2023,West,FOOD & BEVERAGE,Supplier A,WH-03,835 units,2747,$2292.73,0,25,True,17352.33,8368
+N/A,South,accessories,Supplier C,WH-03,860 units,4548,$2882.26,Yes,14,True,1907.29,4337
